@@ -8,7 +8,7 @@ Two Crazyfile flying test, each crazyfly is tracking a predefined trajectory
 Please follow this website to setup your crazyfile
 https://www.bitcraze.io/documentation/tutorials/
 
-## Find your address
+## Find your Radio address
 Use cfclient to find the address of your crazyfile. For more detail, you can look at the website provided above.
 
 ## Test
