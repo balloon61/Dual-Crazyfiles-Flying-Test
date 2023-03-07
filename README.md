@@ -1,5 +1,4 @@
 # Dual-Crazyfile-flying-test
-### Code will provide soon
 Two Crazyfile flying test, each crazyfly is tracking a predefined trajectory
 
 
